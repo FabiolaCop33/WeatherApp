@@ -3,7 +3,9 @@
 ### Description  
 This application displays real-time weather conditions for flights between different cities, using data from the **OpenWeatherMap API**. Users can enter the flight number and view the weather information for both origin and destination airports with a clean and simple interface built in **SwiftUI**.
 
-https://github.com/FabiolaCop33/WeatherApp/blob/main/weatherapp.png
+<img src="https://github.com/FabiolaCop33/WeatherApp/blob/main/weatherapp.png" width="300">
+
+
 
 ---
 
